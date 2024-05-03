@@ -10,4 +10,13 @@
 
 </details>
 
+<details>
+<summary>3.2. Add some creativities to the webclient</summary>
+
+![3.2. Add some creativities to the webclient](https://i.ibb.co/HpRmmrk/Screenshot-68.png)
+
+As seen in the screenshot, although the animation may not be very clear, I added animation to the chat bubble. I also changed the original code's default avatar to a gif so that the user's avatar moves.
+
+</details>
+
 </details>
